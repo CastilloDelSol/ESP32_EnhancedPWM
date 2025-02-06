@@ -1,0 +1,33 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ESP32_EnhancedPWM          KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+###################################
+# Class ESP32_PWM
+###################################
+
+begin                      KEYWORD2
+setDuty                    KEYWORD2
+setDutyAndResetTimer       KEYWORD2
+setDutyNormalized          KEYWORD2
+getResolution              KEYWORD2
+getFrequency               KEYWORD2
+getExactFrequency          KEYWORD2
+getDuty                    KEYWORD2
+getMaxDuty                 KEYWORD2
+getBoardPin                KEYWORD2
+
+calculate_ledc_timer_divider   KEYWORD2
+extract_fixed_point_divider    KEYWORD2
+extract_effective_divider      KEYWORD2
+get_ledc_real_frequency        KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################

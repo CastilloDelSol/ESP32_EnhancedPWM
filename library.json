@@ -1,0 +1,18 @@
+{
+    "name": "ESP32_EnhancedPWM",
+    "version": "1.0.0",
+    "description": "An Arduino library for ESP32 that extends LEDC PWM functionality with extended frequency support and fractional divider calculations.",
+    "keywords": "ESP32, PWM, LEDC, Enhanced, Fractional, Timer, Arduino",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/CastilloDelSol/ESP32_EnhancedPWM.git"
+    },
+    "authors": [
+      {
+        "name": "Tim Sonnenburg",
+        "email": "starfox.tim@gmx.de"
+      }
+    ],
+    "frameworks": "arduino",
+    "platforms": "espressif32"
+  }  
