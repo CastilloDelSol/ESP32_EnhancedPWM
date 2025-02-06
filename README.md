@@ -123,6 +123,13 @@ Returns the board-specific GPIO pin used for the PWM output.
 
 _For additional internal functions such as the divider calculations and clock source resolution, please refer to the source code documentation._
 
+## Compatibility
+
+This library has been **tested only on the Arduino Nano ESP32-S3** so far.  
+Other ESP32 variants **may work**, but they have **not been verified yet**.  
+
+If you successfully use this library on a different ESP32 board, please consider submitting an issue or pull request to help expand compatibility.
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
